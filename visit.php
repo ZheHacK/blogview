@@ -16,7 +16,7 @@ echo "$cyan ___           _     _
 |___|_| |_|___/_|\__,_|\___|\n";
 
 echo " Only God Can Stop Me :D \n ";
-echo " Email : zhealhaqy@gmail.com \n";
+echo " Email : zhehacindo@gmail.com \n";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR BLOG 2019 ~~~~~\n  ";
 echo ' Website Mu: ';
